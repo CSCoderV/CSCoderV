@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**CSCoderV/CSCoderV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ved Dharmatti!
 
-Here are some ideas to get you started:
+🎓 Sophomore Computer Science (Honors) Major at the University of Texas at Arlington
+📍 GPA: 4.0
+💡 Passionate about software development, artificial intelligence, and real-time systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+## 🚀 My Projects
+
+## 🎬 Movie Recommendation System
+
+Designed and implemented a **movie recommendation system** using **Python**.  
+Enabled users to receive personalized movie recommendations based on an existing database.
+
+### 🔹 Key Features:
+- Utilized **Singular Value Decomposition (SVD)** for collaborative filtering.
+- Provided recommendations based on user ratings and movie preferences.
+- Implemented using **NumPy, Pandas**.
+---
+
+💻 Technologies & Skills
+Programming Languages
+🔹 Python | Java | C++ | Kotlin | C 
+
+Databases & Cloud
+🔹 MySQL | Firebase
+
+Tools & Frameworks
+🔹 Git
+
+
+## 📫 Connect With Me:
+🔗 [LinkedIn](your-linkedin-url) | [GitHub](your-github-url) | [Portfolio](your-portfolio-url)
+
+
