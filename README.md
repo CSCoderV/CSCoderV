@@ -8,6 +8,17 @@
 
 ## 🚀 My Projects
 
+### 🤖 Viably – AI-Powered Feature Analysis & Code Generation  
+An intelligent multi-agent system that analyzes product user stories, evaluates feasibility, and auto-generates scaffolded code with a GitHub PR.
+
+- 🎯 **Tech Stack:** Python (FastAPI), Next.js, Node.js, NVIDIA Nemotron, RAG  
+- 🔹 Multi-agent analysis: engineering effort, ROI, competition, timeline  
+- 🔹 Auto-creates implementation plans & generates file structure  
+- 🔹 Opens a Pull Request with generated code for rapid iteration  
+- 🔹 Built at **HackUTD** with a 4-member team
+
+---
+
 ### 🎬 Movie Recommendation System  
 A personalized movie recommender using collaborative filtering.
 
@@ -33,8 +44,8 @@ A full-stack Android health management app with smart features.
 - 🎯 **Tech Stack:** Kotlin, Ktor, Firebase, OpenAI API, Docker, LibreTranslate  
 - 🔹 Jetpack Compose Android app with biometric login  
 - 🔹 Real-time vitals tracking & alerts  
-- 🔹 Multilingual support and AI chatbot for guidance
-  
+- 🔹 Multilingual support and AI chatbot for guidance  
+
 ---
 
 ## 💻 Technologies & Skills
@@ -46,5 +57,4 @@ A full-stack Android health management app with smart features.
 🔹 MySQL | Firebase  
 
 ### Tools & Frameworks  
-🔹 Git
-
+🔹 Git | FastAPI | React | Next.js | Docker | Firebase
